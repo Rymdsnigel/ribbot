@@ -1,7 +1,7 @@
 # ribbot
 A bot that combines Magdalena Ribbing answers with Valerie Solanas SCUM Manifest. For Stupid Hackathon Sweden.
 
-Based completely from: https://golang.org/doc/codewalk/markov/
+Based completely on: https://golang.org/doc/codewalk/markov/
 
 ## Example quotes:
 
@@ -23,3 +23,9 @@ _B skulle från början ha rutit till mannen ifråga, ordentligt och högt. Nu g
 
 * Moar random
 * Translate everything to English
+
+## Fun fact
+
+I once wrote a question to Magdalena Ribbing and got an answer!
+
+http://blogg.dn.se/etikettfragan/2013/04/22/jobbavbojade/
